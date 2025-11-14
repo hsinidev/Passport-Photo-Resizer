@@ -1,0 +1,5 @@
+{
+  "name": "Passport Photo Resizer",
+  "description": "A modern, client-side tool to crop and resize photos to official passport and visa dimensions. Features a live preview with a crop guide, various country presets, and local image processing for privacy.",
+  "requestFramePermissions": []
+}
